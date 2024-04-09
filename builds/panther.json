@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "Anierin Bliss",
+      "oem": "Google",
+      "device": "Pixel 7",
+      "filename": "EvolutionX-14.0-20240427-panther-v9.0-Official.zip",
+      "download": "https://sourceforge.net/projects/evolution-xyz/files/panther/14/EvolutionX-14.0-20240427-panther-v9.0-Official.zip/download",
+      "timestamp": 1714183656,
+      "md5": "2573beb9a96136a24fd26e7ed688d268",
+      "sha256": "8b251c2fface98b8249a23426f9bb8e04e49154a0a887431a2669896194916c2",
+      "size": 2414955990,
+      "version": "9.0",
+      "buildtype": "Release",
+      "forum": "https://xdaforums.com/t/closed-rom-14-0_r25-official-evolution-x-8-3-03-04-2024.4546503/",
+      "firmware": "",
+      "paypal": "https://PayPal.me/AnierinB",
+      "telegram": "https://telegram.me/AnierinB"
+    }
+  ]
+}
